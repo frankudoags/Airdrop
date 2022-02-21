@@ -1,5 +1,5 @@
 # Airdrop
 A solidity code for claiming and distributing airdrop
-Can connect any new token and distribute airdrop tokens to whitelisted addresses.
-
+Add addresses to whitelist
+Just choose the value of the drop, send tokens to the contract and startAirdrop()
 DISCLAIMER: NOt liable for any errors encountered if you use this code.
